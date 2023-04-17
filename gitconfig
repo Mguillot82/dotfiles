@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mathieu.guillot@gaminglink.fr
+	name = Mathieu GUILLOT
